@@ -1,0 +1,11 @@
+# Site settings
+title: Matthew Thomas's Blog
+email: Matthew.W.Thomas@gmail.com
+description: "A site about me, my ideas, and my work."  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://matthewthomas.se" # the base hostname & protocol for your site
+linkedin_username: MatthewWThomas
+github_username:  macravin
+
+# Build settings
+markdown: kramdown
